@@ -4,3 +4,4 @@ tri The Prisoner of Azkaban (1999)
 Five Order of the Phoenix (2003)
 Six Half-Blood Prince (2005)
 <<<<<<< Updated upstream
+Seven Deathly Hallows (2007) 
